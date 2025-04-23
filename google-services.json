@@ -1,0 +1,29 @@
+  {
+  "project_info": {
+    "project_number": "114518971938",
+    "project_id": "compass-4299a",
+    "storage_bucket": "compass-4299a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114518971938:android:3e2739a82d50f56a561c7b",
+        "android_client_info": {
+          "package_name": "com.example.compass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkzjXQgBXbxMz9k8XeXmP3i-y-zRaEdtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
